@@ -1,0 +1,7 @@
+C:\C#\firstProject1\threeProject\bin\Debug\threeProject.exe.config
+C:\C#\firstProject1\threeProject\bin\Debug\threeProject.exe
+C:\C#\firstProject1\threeProject\bin\Debug\threeProject.pdb
+C:\C#\firstProject1\threeProject\obj\Debug\threeProject.csproj.AssemblyReference.cache
+C:\C#\firstProject1\threeProject\obj\Debug\threeProject.csproj.CoreCompileInputs.cache
+C:\C#\firstProject1\threeProject\obj\Debug\threeProject.exe
+C:\C#\firstProject1\threeProject\obj\Debug\threeProject.pdb
